@@ -1,20 +1,11 @@
-body {
-    background-image:url(./aksonvady_Data_technology_futuristic_illustration\ 31\ 1.png) ;
-    background-repeat: no-repeat;
-    background-size: cover;
+
+.box {
+    img src="./licensed-image 1 (1).png" width:305; height: 226; alt=""
+
+    Height: 419px;
+    Width: 357px;
+    border: 1px solid #B4B4B4
 }
-.satauri1 {
-    color:#C3C3C3;
-}
-.satauri2 {
-    color: #C3C3C3;
-}
-.sruli1 {
-    color: #FFFFFF;
-}
-.satauri3 {
-    color: #767676;
-}
-.sruli2 {
-    color: #FFFFFF;
+.satauri {
+    color: #000000;
 }
